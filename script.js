@@ -210,7 +210,7 @@ document.addEventListener('DOMContentLoaded', function () {
         "没想到我会以这种方式发消息给你吧，\n我想你啦",
         "是不是也是看上流星雨啦\n而且，还是独属于你的流星雨！",
         "祝愿小乖天天开心\n天天哈哈哈哈哈哈hahaha",
-        "最后呢，\n一句话，\n小乖请开心！\n有我在呢！"
+        "最后呢，\n一句话，\n小乖请开心\n有我在呢！"
     ];
     let currentMessageIndex = 0;
     const messageElement = document.getElementById('message');
